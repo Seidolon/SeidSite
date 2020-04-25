@@ -1,0 +1,50 @@
+Pokemon:
+
+	WEEDOW (Drug/Grass) - SMOWEED (Drug/Fire) - DANKKUSH (Drug/Poison)
+	WEEDEALER (Drug/Ghetto) - CRACKADDICT (Drug/Ghetto) - METHEAD (Drug/Ghetto)
+	DAFUKINCOPS (Police) - MOTHAFUKINPOLICE (Police)
+	RAPPA (Ghetto) - MOTHAFUCKA (Ghetto) - MAHNIGGA (Ghetto/Drug)
+	NARCOW (Police/Ghetto) - NOPEDOPE (Police/Ghetto)
+	TWIGGER (Grass/Ghetto) - NIGGROW (Grass/Ghetto)
+	SHOOZEOFF (Normal) - SHOOZEON (Normal) - SHOOZENSOX (Normal)
+
+Types:
+	
+	Drug Type
+		Defensive - WEAK: Police, Poison, Ground   STRONG: Grass, Normal, Ghetto
+		Offensive - WEAK: Poison, Ground, Water   STRONG: Grass, Dark, Psychic, Ghetto
+
+	Ghetto Type
+		Defensive - WEAK: Police, Fighting, Drug, Fire   STRONG: Ghost, Dark, Psychic
+		Offensive - WEAK: Steel, Grass, Drug   STRONG: Police, Normal, Bug
+
+	Police Type
+		Defensive - WEAK: Ghetto, Fairy, Dragon   STRONG: Drug, Grass, Ground
+		Offensive - WEAK: Fire, Ghost, Dark   STRONG: Drug, Ghetto, Rock, Electric, Water
+	
+Attacks:
+	
+	Crack Attack - Does 40 damage, Lowers opponents accuracy but increases their speed. Drug Type
+	Smoke Weed - Heals half HP, can't attack next turn. Drug Type
+	Deal Heroin - The opponent's pokemon falls asleep next turn. Drug Type
+	Meth Rage - Goes on a meth rage for 2 - 5 turns dealing 60 + (20xturn#). Falls asleep after rage. Drug Type
+	Overdose - Overdoses on drugs, causing the user to faint. The defending pokemon's attacks are lowered. Drug Type
+	Fuck Bitches - Fucks bitches, gaining gangsta status from its peers. Increases attack, defense, and evasiveness. Ghetto Type
+	Get Money - Increases prize money for the player if he/she wins the battle. Ghetto Type
+	Do Shrooms - Does shrooms, making it run around rampantly. All opponent's attacks will miss next turn. Drug Type
+	Procaine - Pokemon becomes numb to pain, increasing defense drastically, but also making its HP bar invisible. Drug Type
+	Drug Bust - All drug-type pokemon are fucked. Police Type
+	Rehab - The opponent cannot use any drug-type moves for 3 turns. Police Type
+	Chase Dat Nigga - The opponent's ghetto-type pokemon cannot be swapped out or flee. Police Type
+
+Abilities:
+
+	Weed Stank - Covers the battlefield in a cloud of weed smoke. All non drug-type pokemon suffer occasional lack of concern.
+	Cover'd in Crack - Occasionally will cause the pokemon to get a crack boost and attack twice in one turn.
+	Gangsta Grudge - If the pokemon is knocked out by another pokemon, it will gain an attack boost against any pokemon of that type forever.
+	Street Nigga - Can run from trainer battles when facing a police-type pokemon. Knows its way around da hood.
+	Trigger Happy - Increases accuracy when attacking a ghetto-type pokemon. Will not encounter wild ghetto-type pokemon if this pokemon is in the front of your party.
+
+Status Conditions:
+
+	Fucked - When a pokemon is fucked, it makes bad decisions, frequently disobeying your commands and using different attacks. Being fucked also allows super effective moves to do 3x damage to the pokemon that is fucked instead of 2x, while double super effective moves do 6x damage.
